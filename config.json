@@ -1,0 +1,10 @@
+{
+  "client_id": "141866695126-ugsenfsvfmsttfdvvn5rgcnprtjmhakk.apps.googleusercontent.com" ,
+  "client_secret": "w8yfLXPwyMVYVU_o1nOCwbQo",
+"scope": [
+    "https://www.googleapis.com/auth/drive",
+    "https://spreadsheets.google.com/feeds/"
+  ],
+  "refresh_token": "1/VyP2Arsfd5RRy5EIUrxwmoud1ZEjBX8_gMr86cOv087V2cE3VSgS-_CyBtqCUBUA"
+
+}
